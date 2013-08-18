@@ -46,6 +46,7 @@ font-family: Helvetica;
 
 p {
 line-height: 1.8em;
+font-size: 1.4em;
 }
 
 h1 {
@@ -100,6 +101,13 @@ text-align: center;
 font-weight: bold;
 }
 
+
+.key-text {
+font-family: Helvetica;
+color:red;
+font-size: 0.5em;
+
+}
 
 /* Pinched from http://jsfiddle.net/gBW3Y/252/ */
 
